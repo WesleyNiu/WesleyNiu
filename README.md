@@ -2,7 +2,11 @@
 ### _Hi there 👋, I'm Wesley.
 
 Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/WesleyNiu/count.svg) visitor, Thank You!🎉🎉
+
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyNiu&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyNiu"></img>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
